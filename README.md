@@ -92,3 +92,6 @@ com.ruoyi
     </tr>
 </table>
 本项目的原作者使用mac 写的，在自己完成之后上传git 需要注意相关的换行问题
+
+![ruoyi](C:\Users\魏志杰\Desktop\RuoYi-Cloud\fix1.png)
+
